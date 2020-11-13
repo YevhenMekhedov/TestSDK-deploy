@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   #
 s.name          = "TestSDk"
 #s.version      = "INITIAL_VERSION OR TAG"
-s.version       = "0.0.1"
+s.version       = "0.0.2"
 s.summary       = "TestSDK is a framework"
 s.homepage      = "https://github.com/YevhenMekhedov/TestSDK-deploy"
 s.description   = "asdkjaslkdjl"
